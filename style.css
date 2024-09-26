@@ -1,0 +1,32 @@
+.type{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-style: oblique; */
+    font-style: italic;
+}
+
+.write{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: teal;
+}
+.transform{
+    font-size: small;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: lowercase;
+    text-decoration: double overline;
+}
+#decor{
+    font-style: oblique;
+    font-family: cursive;
+    color: plum;
+    text-transform: capitalize;
+    text-decoration: wavy underline;
+}
+
+h1{
+    text-shadow: 4px 5px 5px chocolate;
+    box-shadow: 5px 5px 20px green;
+}
