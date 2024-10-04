@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    text-shadow: 3px 4px 20px yellow;
+    box-shadow: 3px 4px 20px green;
+    text-align: center;
+}
+h2{
+    text-decoration: wavy underline blueviolet;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+*{
+    background: linear-gradient(red, yellow, green);
+}
